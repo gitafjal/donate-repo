@@ -59,10 +59,6 @@ h2 {
     text-align: center;
 }
 
-#1st {
-    color: rgb(117, 43, 43);
-    size: 20%;
-}
 
 .flexible-container {
     display: flex;
